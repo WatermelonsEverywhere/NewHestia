@@ -26862,6 +26862,10 @@
 /obj/effect/floor_decal/techfloor,
 /turf/simulated/floor/tiled/dark,
 /area/command/armoury)
+"ooW" = (
+/obj/skeleton,
+/turf/simulated/floor/tiled/white,
+/area/rnd/research)
 "opb" = (
 /obj/machinery/atmospherics/unary/vent_pump/on{
 	dir = 4
@@ -28066,6 +28070,7 @@
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
+/obj/skeleton,
 /turf/simulated/floor/tiled/white,
 /area/rnd/research)
 "pWc" = (
@@ -28121,6 +28126,7 @@
 /obj/structure/extinguisher_cabinet{
 	pixel_x = 32
 	},
+/obj/skeleton,
 /turf/simulated/floor/tiled/white,
 /area/rnd/research)
 "pZj" = (
@@ -28529,6 +28535,7 @@
 	d2 = 2;
 	icon_state = "0-2"
 	},
+/obj/skeleton,
 /turf/simulated/floor/tiled/white,
 /area/rnd/research)
 "qzb" = (
@@ -28619,6 +28626,7 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
 	},
+/obj/skeleton,
 /turf/simulated/floor/tiled/white,
 /area/rnd/research)
 "qGb" = (
@@ -28929,6 +28937,7 @@
 	dir = 4;
 	pixel_x = 21
 	},
+/obj/skeleton,
 /turf/simulated/floor/tiled/white,
 /area/rnd/research)
 "qZb" = (
@@ -53709,7 +53718,7 @@ jyb
 qrb
 pAb
 pWb
-qrb
+ooW
 qFb
 bta
 rsb
